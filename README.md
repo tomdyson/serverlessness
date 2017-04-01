@@ -9,10 +9,11 @@
 - Chalice
 - Zappa
 
-## Demo links
+## Links
 
 - https://2vl5sa6qh9.execute-api.eu-west-1.amazonaws.com/dev/all (Chalice Schedule API)
 - https://tom.s3.amazonaws.com/firenze.html (VueJS API client)
+- https://www.nextplatform.com/2016/07/27/first-kill-servers/ ('First, Kill All The Servers')
 
 ## Schedule scraper app.py
 
