@@ -14,6 +14,8 @@
 - https://2vl5sa6qh9.execute-api.eu-west-1.amazonaws.com/dev/all (Chalice Schedule API)
 - https://tom.s3.amazonaws.com/firenze.html (VueJS API client)
 - https://www.nextplatform.com/2016/07/27/first-kill-servers/ ('First, Kill All The Servers')
+- http://mikegrouchy.com/blog/2012/06/write-less-code.html (Write less code)
+- https://blog.codinghorror.com/the-best-code-is-no-code-at-all/ (The Best Code is No Code At All)
 
 ## Schedule scraper app.py
 
